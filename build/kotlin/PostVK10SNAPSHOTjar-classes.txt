@@ -1,0 +1,1 @@
+C:\Users\nan\IdeaProjects\PostVK\build\classes\kotlin\main\Comments.class;C:\Users\nan\IdeaProjects\PostVK\build\classes\kotlin\main\Likes.class;C:\Users\nan\IdeaProjects\PostVK\build\classes\kotlin\main\MainKt.class;C:\Users\nan\IdeaProjects\PostVK\build\classes\kotlin\main\Post.class;C:\Users\nan\IdeaProjects\PostVK\build\classes\kotlin\main\WallService.class
